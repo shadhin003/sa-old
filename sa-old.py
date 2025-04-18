@@ -625,7 +625,7 @@ os.system('espeak -a 300 " Assalamu' 'olaikum"')
 os.system('espeak -a 300 " Your,   Real,  Name,  Sir,"')
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m:\33[1;32m')
 os.system('espeak -a 300 "well,come to anisha shadhin, tools"')
-os.system('xdg-open https://t.me/+QDHeImK3LwdkN2Fl.Ok.Bro')
+######os.system('xdg-open https://t.me/+QDHeImK3LwdkN2Fl.Ok.Bro')
 logo = f"""
 \033[0;92m
 
